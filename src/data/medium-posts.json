@@ -1,5 +1,21 @@
 [
   {
+    "id": "firewall-na-pratica-liberacao-de-ip-e-porta-do-cliente-ao-servidor",
+    "source": "medium",
+    "title": "Firewall na Prática — Liberação de IP e Porta, do Cliente ao Servidor",
+    "slug": "firewall-na-pratica-liberacao-de-ip-e-porta-do-cliente-ao-servidor",
+    "url": "https://medium.com/@hitoshyamamoto/firewall-na-pr%C3%A1tica-libera%C3%A7%C3%A3o-de-ip-e-porta-do-cliente-ao-servidor-e53aa1858984",
+    "publishedAt": "2026-09-27",
+    "summary": "Um guia de estudo e de consulta para entender, configurar, investigar e validar liberações de IP (Internet Protocol) e porta em firewalls, com um caso prático ponta a ponta: do computador do cliente…",
+    "tags": [
+      "firewall",
+      "infrastructure",
+      "networking",
+      "architecture",
+      "network"
+    ]
+  },
+  {
     "id": "git-na-pratica-um-guia-completo-e-explicado-para-iniciantes",
     "source": "medium",
     "title": "Git na Prática — Um Guia Completo e Explicado para Iniciantes",
